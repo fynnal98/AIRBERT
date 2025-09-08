@@ -8,9 +8,10 @@ After achieving this, the next step will be to integrate a custom flight control
 ---
 
 ## Structure – Overview in Inventor (in progress)  
+<img src="https://github.com/user-attachments/assets/9e9aa989-353d-4fec-9c0d-4f718a2e0ea7" width="60%" />
+<img src="https://github.com/user-attachments/assets/6cd21d21-84d0-4713-929e-bef5c2ea65ff" width="60%" />
 
-<img src="https://github.com/user-attachments/assets/194cd20f-476d-4b67-8139-978ec74ecc51" width="48%" />  
-<img src="https://github.com/user-attachments/assets/790f2e6d-2e4d-426c-9ab0-2fb4ddc7c1a0" width="48%" />  
+
 
 The airframe will be manufactured using lightweight PLA to ensure low mass and high stiffness.  
 
@@ -18,11 +19,14 @@ The airframe will be manufactured using lightweight PLA to ensure low mass and h
 
 ## Hardware  
 
-- Servos for control surfaces  
+- Servos (4x) 
 - ESC (Electronic Speed Controller)  
 - Brushless DC motor (BLDC)  
 - LiPo 3S 5500 mAh battery  
-- Flight controller (ESP32, MPU6050, BMP280)  
+- Flight controller (ESP32, MPU6050, BMP280)
+
+<img src="https://github.com/user-attachments/assets/c47bbf67-b611-4c7a-b064-fa22d3f69cf1" width="60%"  />
+
 
 ---
 
@@ -33,7 +37,7 @@ The flight controller will build on the experience from the HUBERT software proj
 
 Future goals:  
 - Stabilization (PID)  
-- Sensor integration (IMU, barometer)  
-- Telemetry link for mission planning (Ground Station)  
+- Sensor integration (IMU, barometer, 2,4Ghz modul)  
+- Telemetry link with for mission planning (Ground Station)  
 - Safety features (failsafe, heartbeat system)
 - Logging  
