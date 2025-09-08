@@ -7,7 +7,7 @@ After achieving this, the next step will be to integrate a custom flight control
 
 ---
 
-## Structure – Overview in Inventor (in progress)  https://github.com/fynnal98/AIR-BERT/blob/main/README.md
+## Structure – Overview in Inventor (in progress)  
 <img src="https://github.com/user-attachments/assets/9e9aa989-353d-4fec-9c0d-4f718a2e0ea7" width="60%" />
 <img src="https://github.com/user-attachments/assets/6cd21d21-84d0-4713-929e-bef5c2ea65ff" width="60%" />
 
