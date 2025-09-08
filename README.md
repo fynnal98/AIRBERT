@@ -7,7 +7,7 @@ After achieving this, the next step will be to integrate a custom flight control
 
 ---
 
-## Structure – Overview in Inventor (in progress)  
+## Structure – Overview in Inventor (in progress)  https://github.com/fynnal98/AIR-BERT/blob/main/README.md
 <img src="https://github.com/user-attachments/assets/9e9aa989-353d-4fec-9c0d-4f718a2e0ea7" width="60%" />
 <img src="https://github.com/user-attachments/assets/6cd21d21-84d0-4713-929e-bef5c2ea65ff" width="60%" />
 
@@ -32,8 +32,9 @@ The airframe will be manufactured using lightweight PLA to ensure low mass and h
 
 ## Flight Controller (planned)  
 
-The flight controller will build on the experience from the HUBERT software project:  
+The flight controller will build on the experience from the HUBERT software project and the Mini ESP32 Drone:  
 --> [fynnal98/HUBERT](https://github.com/fynnal98/HUBERT)  
+--> [fynnal98/HUBERT](https://github.com/fynnal98/ESP32-Drone)
 
 Future goals:  
 - Stabilization (PID)  
