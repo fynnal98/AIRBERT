@@ -34,7 +34,7 @@ The airframe will be manufactured using lightweight PLA to ensure low mass and h
 
 The flight controller will build on the experience from the HUBERT software project and the Mini ESP32 Drone:  
 --> [fynnal98/HUBERT](https://github.com/fynnal98/HUBERT)  
---> [fynnal98/HUBERT](https://github.com/fynnal98/ESP32-Drone)
+--> [fynnal98/ESP32_Drone](https://github.com/fynnal98/ESP32-Drone)
 
 Future goals:  
 - Stabilization (PID)  
