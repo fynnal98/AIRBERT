@@ -1,0 +1,6 @@
+[submodule "AIRLAB_Flightcontroller"]
+	path = AIRLAB_Flightcontroller
+	url = git@github.com:fynnal98/AIRLAB_Flightcontroller.git
+[submodule "AIRLAB_Telemtry"]
+	path = AIRLAB_Telemtry
+	url = git@github.com:fynnal98/AIRLAB_Telemtry.git
