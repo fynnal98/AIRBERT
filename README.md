@@ -36,6 +36,8 @@ The flight controller will build on the experience from the HUBERT software proj
 --> [fynnal98/HUBERT](https://github.com/fynnal98/HUBERT)  
 --> [fynnal98/ESP32_Drone](https://github.com/fynnal98/ESP32-Drone)
 
+--> Final Repo: [fynnal98/AIROLAB_Flightcontroller] https://github.com/fynnal98/AIROLAB_Flightcontroller
+
 Future goals:  
 - Stabilization (PID)  
 - Sensor integration (IMU, barometer, 2,4Ghz modul)  
