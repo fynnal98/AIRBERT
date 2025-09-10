@@ -1,4 +1,4 @@
-# AIR-BERT  
+# AIRBERT  
 **Fixed-wing RC aircraft**  
 
 AIR-BERT is a self-designed remote-controlled aircraft.  
