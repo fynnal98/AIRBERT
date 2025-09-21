@@ -39,7 +39,7 @@ The flight controller will build on the experience from the HUBERT software proj
 --> [fynnal98/ESP32_Drone](https://github.com/fynnal98/ESP32-Drone)
 
 --> Final Repo: [fynnal98/AIROLAB_Flightcontroller](https://github.com/fynnal98/AIROLAB_Flightcontroller)
---> Telemetry Repo: [fynnal98/AIROLAB_Telemetry](https://github.com/fynnal98/AIROLAB_Telemtry/tree/main)]
+--> Telemetry Repo: [fynnal98/AIROLAB_Telemetry](https://github.com/fynnal98/AIROLAB_Telemtry/tree/main)
 
 Future goals:  
 - Stabilization (PID)  
