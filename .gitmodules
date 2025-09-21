@@ -4,6 +4,3 @@
 [submodule "AIRLAB_Telemtry"]
 	path = AIRLAB_Telemtry
 	url = git@github.com:fynnal98/AIRLAB_Telemtry.git
-[submodule "AIROLAB_Flightcontroller"]
-	path = AIROLAB_Flightcontroller
-	url = git@github.com:fynnal98/AIROLAB_Flightcontroller.git
