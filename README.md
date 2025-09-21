@@ -1,7 +1,7 @@
 # AIRBERT  
 **Fixed-wing RC aircraft**  
 
-AIR-BERT is a self-designed remote-controlled aircraft.  
+AIRBERT is a self-designed remote-controlled aircraft.  
 The first milestone is to build a fully functional airplane with agile flight characteristics.  
 After achieving this, the next step will be to integrate a custom flight controller and develop a telemetry station to control and plan the aircraft’s missions.  
 
